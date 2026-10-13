@@ -1,0 +1,3160 @@
+[
+  {
+    "description": "A jousting ape carrying a heraldic shield and red lance while riding a leaping spotted ram with curling gold horns. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "ape",
+      "ram",
+      "shield",
+      "lance"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "cream",
+      "gold",
+      "black",
+      "red"
+    ],
+    "composition": "multiple-figures",
+    "name": "ape-jouster-riding-ram",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/ape-jouster-riding-ram.png",
+    "webp": "webp/ape-jouster-riding-ram.webp",
+    "width": 791,
+    "height": 687,
+    "png_bytes": 536681,
+    "webp_bytes": 374586,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/ape-jouster-riding-ram.png",
+        "webp": "webp/128/ape-jouster-riding-ram.webp",
+        "width": 128,
+        "height": 111,
+        "png_bytes": 21693,
+        "webp_bytes": 16050
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/ape-jouster-riding-ram.png",
+        "webp": "webp/256/ape-jouster-riding-ram.webp",
+        "width": 256,
+        "height": 222,
+        "png_bytes": 73115,
+        "webp_bytes": 51472
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/ape-jouster-riding-ram.png",
+        "webp": "webp/512/ape-jouster-riding-ram.webp",
+        "width": 512,
+        "height": 445,
+        "png_bytes": 250775,
+        "webp_bytes": 173032
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/ape-jouster-riding-ram.png",
+        "webp": "webp/768/ape-jouster-riding-ram.webp",
+        "width": 768,
+        "height": 667,
+        "png_bytes": 512887,
+        "webp_bytes": 362118
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Rider overlaps the ram; the entire associated pair is retained without reconstructing the obscured back.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 791,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original labelled circular wind diagram, with twelve individually painted profile heads joined by ruled wind rays and green rings, and red quatrefoil ornaments. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "geometric"
+    ],
+    "subjects": [
+      "wind",
+      "wheel",
+      "diagram",
+      "heads",
+      "faces",
+      "circles",
+      "quatrefoil",
+      "lettering"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "green",
+      "brown",
+      "red",
+      "cream"
+    ],
+    "composition": "multiple-figures",
+    "name": "complete-circular-wind-diagram-with-twelve-profile-heads",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/complete-circular-wind-diagram-with-twelve-profile-heads.png",
+    "webp": "webp/complete-circular-wind-diagram-with-twelve-profile-heads.webp",
+    "width": 5422,
+    "height": 5503,
+    "png_bytes": 27277259,
+    "webp_bytes": 22750558,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/complete-circular-wind-diagram-with-twelve-profile-heads.png",
+        "webp": "webp/128/complete-circular-wind-diagram-with-twelve-profile-heads.webp",
+        "width": 126,
+        "height": 128,
+        "png_bytes": 42540,
+        "webp_bytes": 34382
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/complete-circular-wind-diagram-with-twelve-profile-heads.png",
+        "webp": "webp/256/complete-circular-wind-diagram-with-twelve-profile-heads.webp",
+        "width": 252,
+        "height": 256,
+        "png_bytes": 153339,
+        "webp_bytes": 114564
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/complete-circular-wind-diagram-with-twelve-profile-heads.png",
+        "webp": "webp/512/complete-circular-wind-diagram-with-twelve-profile-heads.webp",
+        "width": 504,
+        "height": 512,
+        "png_bytes": 518302,
+        "webp_bytes": 377768
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/complete-circular-wind-diagram-with-twelve-profile-heads.png",
+        "webp": "webp/768/complete-circular-wind-diagram-with-twelve-profile-heads.webp",
+        "width": 757,
+        "height": 768,
+        "png_bytes": 1026780,
+        "webp_bytes": 759684
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The labels and ruled rays are meaningful parts of the original scientific diagram. This whole connected diagram accompanies the separately reusable wind heads and quatrefoil; it is not a disconnected montage. Blank source-paper sectors and glyph counters are transparent. Green painted fields and pale face/neck surfaces are retained; no repeat or rectangular frame is inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 5503,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A crouching ape reaching forward with both hands. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "ape",
+      "gesture"
+    ],
+    "facing": "right",
+    "colors": [
+      "cream",
+      "brown",
+      "gray"
+    ],
+    "composition": "single-figure",
+    "name": "crouching-ape-with-outstretched-hands",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-184r",
+    "png": "png/crouching-ape-with-outstretched-hands.png",
+    "webp": "webp/crouching-ape-with-outstretched-hands.webp",
+    "width": 839,
+    "height": 825,
+    "png_bytes": 667010,
+    "webp_bytes": 448564,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crouching-ape-with-outstretched-hands.png",
+        "webp": "webp/128/crouching-ape-with-outstretched-hands.webp",
+        "width": 128,
+        "height": 126,
+        "png_bytes": 22294,
+        "webp_bytes": 15624
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crouching-ape-with-outstretched-hands.png",
+        "webp": "webp/256/crouching-ape-with-outstretched-hands.webp",
+        "width": 256,
+        "height": 252,
+        "png_bytes": 76242,
+        "webp_bytes": 51854
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crouching-ape-with-outstretched-hands.png",
+        "webp": "webp/512/crouching-ape-with-outstretched-hands.webp",
+        "width": 512,
+        "height": 503,
+        "png_bytes": 268144,
+        "webp_bytes": 183140
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crouching-ape-with-outstretched-hands.png",
+        "webp": "webp/768/crouching-ape-with-outstretched-hands.webp",
+        "width": 768,
+        "height": 755,
+        "png_bytes": 560686,
+        "webp_bytes": 386404
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with Massacre of an Innocent; apes, owl, falconer, and dragon in margin",
+      "object_identifier": "W.82, fol. 184r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "b3b7ec0c3c2ce94837c989050b00470712e4c342a401466da2fa63b38abd5b91",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000371_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-184r-set",
+        "name": "Initial “D” with Massacre of an Innocent; apes, owl, falconer, and dragon in margin (walters-w82-184r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7927,
+      "height": 8360
+    },
+    "master_longest_dimension_cap": 839,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A low crouching gray-green unicorn with a long horizontal gilded horn, a pointed mane, folded front legs and extended rear legs. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals",
+      "fantasy"
+    ],
+    "subjects": [
+      "unicorn",
+      "horn"
+    ],
+    "facing": "left",
+    "colors": [
+      "gray",
+      "green",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "name": "crouching-unicorn-with-gold-horn",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-191v",
+    "png": "png/crouching-unicorn-with-gold-horn.png",
+    "webp": "webp/crouching-unicorn-with-gold-horn.webp",
+    "width": 2066,
+    "height": 653,
+    "png_bytes": 832726,
+    "webp_bytes": 574636,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crouching-unicorn-with-gold-horn.png",
+        "webp": "webp/128/crouching-unicorn-with-gold-horn.webp",
+        "width": 128,
+        "height": 40,
+        "png_bytes": 6298,
+        "webp_bytes": 5070
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crouching-unicorn-with-gold-horn.png",
+        "webp": "webp/256/crouching-unicorn-with-gold-horn.webp",
+        "width": 256,
+        "height": 81,
+        "png_bytes": 20334,
+        "webp_bytes": 14878
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crouching-unicorn-with-gold-horn.png",
+        "webp": "webp/512/crouching-unicorn-with-gold-horn.webp",
+        "width": 512,
+        "height": 162,
+        "png_bytes": 68300,
+        "webp_bytes": 48420
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crouching-unicorn-with-gold-horn.png",
+        "webp": "webp/768/crouching-unicorn-with-gold-horn.webp",
+        "width": 768,
+        "height": 243,
+        "png_bytes": 140632,
+        "webp_bytes": 98518
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin",
+      "object_identifier": "W.82, fol. 191v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "8c42322b38c5ea4a01e13cae700ad7c129c1953fc3fdd3fb6b7ce92a44e7c967",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000386_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source and exact AI extraction prompt retained. This is an AI-assisted approximation, not a pixel-exact crop; minute contours, scan grain and tones can differ. No separately split versions of contacting figures/props. Native subject bounds cap both axes, with no raster upscaling.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-191v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin (walters-w82-191v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7864,
+      "height": 8288
+    },
+    "master_longest_dimension_cap": 2066,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A figure sits in a woven basket and holds thin red cords leading to a suspended gold face with a scalloped crown. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "figure",
+      "basket",
+      "cord",
+      "face",
+      "crown"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "red",
+      "gold",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "figure-in-woven-basket-with-red-cord-and-crowned-face",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-179v",
+    "png": "png/figure-in-woven-basket-with-red-cord-and-crowned-face.png",
+    "webp": "webp/figure-in-woven-basket-with-red-cord-and-crowned-face.webp",
+    "width": 1432,
+    "height": 1729,
+    "png_bytes": 1903855,
+    "webp_bytes": 1508256,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/figure-in-woven-basket-with-red-cord-and-crowned-face.png",
+        "webp": "webp/128/figure-in-woven-basket-with-red-cord-and-crowned-face.webp",
+        "width": 106,
+        "height": 128,
+        "png_bytes": 19120,
+        "webp_bytes": 14166
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/figure-in-woven-basket-with-red-cord-and-crowned-face.png",
+        "webp": "webp/256/figure-in-woven-basket-with-red-cord-and-crowned-face.webp",
+        "width": 212,
+        "height": 256,
+        "png_bytes": 62347,
+        "webp_bytes": 43884
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/figure-in-woven-basket-with-red-cord-and-crowned-face.png",
+        "webp": "webp/512/figure-in-woven-basket-with-red-cord-and-crowned-face.webp",
+        "width": 424,
+        "height": 512,
+        "png_bytes": 210822,
+        "webp_bytes": 156788
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/figure-in-woven-basket-with-red-cord-and-crowned-face.png",
+        "webp": "webp/768/figure-in-woven-basket-with-red-cord-and-crowned-face.webp",
+        "width": 636,
+        "height": 768,
+        "png_bytes": 433444,
+        "webp_bytes": 336226
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins",
+      "object_identifier": "W.82, fol. 179v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "345543fc84ebe26a2621fb0fa16fff7c052b06ed6e2f098ccfd3e11deff43aa2",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000362_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-179v-set",
+        "name": "Initial \"D\" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins (walters-w82-179v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7676,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 1729,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Haloed gray-haired bearded bust with a draped robe and a curled scroll held across the chest. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "man",
+      "halo",
+      "scroll"
+    ],
+    "facing": "right",
+    "colors": [
+      "gray",
+      "brown",
+      "red",
+      "gold",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "haloed-bearded-bust-holding-lettered-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/haloed-bearded-bust-holding-lettered-scroll.png",
+    "webp": "webp/haloed-bearded-bust-holding-lettered-scroll.webp",
+    "width": 1031,
+    "height": 1016,
+    "png_bytes": 1210561,
+    "webp_bytes": 936690,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/haloed-bearded-bust-holding-lettered-scroll.png",
+        "webp": "webp/128/haloed-bearded-bust-holding-lettered-scroll.webp",
+        "width": 128,
+        "height": 126,
+        "png_bytes": 29257,
+        "webp_bytes": 21188
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/haloed-bearded-bust-holding-lettered-scroll.png",
+        "webp": "webp/256/haloed-bearded-bust-holding-lettered-scroll.webp",
+        "width": 256,
+        "height": 252,
+        "png_bytes": 94413,
+        "webp_bytes": 67360
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/haloed-bearded-bust-holding-lettered-scroll.png",
+        "webp": "webp/512/haloed-bearded-bust-holding-lettered-scroll.webp",
+        "width": 512,
+        "height": 505,
+        "png_bytes": 315791,
+        "webp_bytes": 233854
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/haloed-bearded-bust-holding-lettered-scroll.png",
+        "webp": "webp/768/haloed-bearded-bust-holding-lettered-scroll.webp",
+        "width": 768,
+        "height": 757,
+        "png_bytes": 666998,
+        "webp_bytes": 511804
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 1031,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An orange-robed hunter spears a gray boar lying on its back; both figures, their connecting spear and the original small red blood strokes remain together. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "hunter",
+      "person",
+      "spear",
+      "boar",
+      "hunting"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "orange",
+      "green",
+      "gray",
+      "cream",
+      "red"
+    ],
+    "composition": "multiple-figures",
+    "name": "hunter-spearing-boar",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-191v",
+    "png": "png/hunter-spearing-boar.png",
+    "webp": "webp/hunter-spearing-boar.webp",
+    "width": 1248,
+    "height": 990,
+    "png_bytes": 883022,
+    "webp_bytes": 634086,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hunter-spearing-boar.png",
+        "webp": "webp/128/hunter-spearing-boar.webp",
+        "width": 128,
+        "height": 102,
+        "png_bytes": 17526,
+        "webp_bytes": 13388
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hunter-spearing-boar.png",
+        "webp": "webp/256/hunter-spearing-boar.webp",
+        "width": 256,
+        "height": 203,
+        "png_bytes": 56991,
+        "webp_bytes": 41540
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hunter-spearing-boar.png",
+        "webp": "webp/512/hunter-spearing-boar.webp",
+        "width": 512,
+        "height": 406,
+        "png_bytes": 185361,
+        "webp_bytes": 131908
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hunter-spearing-boar.png",
+        "webp": "webp/768/hunter-spearing-boar.webp",
+        "width": 768,
+        "height": 609,
+        "png_bytes": 379783,
+        "webp_bytes": 271074
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin",
+      "object_identifier": "W.82, fol. 191v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "8c42322b38c5ea4a01e13cae700ad7c129c1953fc3fdd3fb6b7ce92a44e7c967",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000386_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source and exact AI extraction prompt retained. This is an AI-assisted approximation, not a pixel-exact crop; minute contours, scan grain and tones can differ. No separately split versions of contacting figures/props. Native subject bounds cap both axes, with no raster upscaling.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-191v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin (walters-w82-191v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7864,
+      "height": 8288
+    },
+    "master_longest_dimension_cap": 1248,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A seated jousting ape carrying an orange and black shield and a complete long red lance. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "ape",
+      "shield",
+      "lance"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "orange",
+      "black",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "jousting-ape-with-shield-and-lance",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/jousting-ape-with-shield-and-lance.png",
+    "webp": "webp/jousting-ape-with-shield-and-lance.webp",
+    "width": 721,
+    "height": 598,
+    "png_bytes": 298858,
+    "webp_bytes": 210880,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/jousting-ape-with-shield-and-lance.png",
+        "webp": "webp/128/jousting-ape-with-shield-and-lance.webp",
+        "width": 128,
+        "height": 106,
+        "png_bytes": 14582,
+        "webp_bytes": 11612
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/jousting-ape-with-shield-and-lance.png",
+        "webp": "webp/256/jousting-ape-with-shield-and-lance.webp",
+        "width": 256,
+        "height": 212,
+        "png_bytes": 47996,
+        "webp_bytes": 35086
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/jousting-ape-with-shield-and-lance.png",
+        "webp": "webp/512/jousting-ape-with-shield-and-lance.webp",
+        "width": 512,
+        "height": 425,
+        "png_bytes": 165126,
+        "webp_bytes": 116910
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 721,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A long-beaked green-gray bird with two orange wings, orange legs and an attached human-headed tail. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals",
+      "fantasy",
+      "hybrids"
+    ],
+    "subjects": [
+      "bird",
+      "beak",
+      "wing",
+      "person",
+      "tail",
+      "hybrid"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "green",
+      "gray",
+      "orange",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "long-beaked-orange-winged-bird",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-169r",
+    "png": "png/long-beaked-orange-winged-bird.png",
+    "webp": "webp/long-beaked-orange-winged-bird.webp",
+    "width": 1282,
+    "height": 1056,
+    "png_bytes": 1046668,
+    "webp_bytes": 743590,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/long-beaked-orange-winged-bird.png",
+        "webp": "webp/128/long-beaked-orange-winged-bird.webp",
+        "width": 128,
+        "height": 105,
+        "png_bytes": 19728,
+        "webp_bytes": 15242
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/long-beaked-orange-winged-bird.png",
+        "webp": "webp/256/long-beaked-orange-winged-bird.webp",
+        "width": 256,
+        "height": 211,
+        "png_bytes": 63024,
+        "webp_bytes": 45920
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/long-beaked-orange-winged-bird.png",
+        "webp": "webp/512/long-beaked-orange-winged-bird.webp",
+        "width": 512,
+        "height": 422,
+        "png_bytes": 207352,
+        "webp_bytes": 146726
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/long-beaked-orange-winged-bird.png",
+        "webp": "webp/768/long-beaked-orange-winged-bird.webp",
+        "width": 768,
+        "height": 633,
+        "png_bytes": 424523,
+        "webp_bytes": 301616
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"S\" with dying man receiving last rites from abbot; woman dances on shoulder of bagpipe player in margin",
+      "object_identifier": "W.82, fol. 169r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "679e633e351727976c20f756c392c699eee8ccd68bf39c4a808bb694e6f6eded",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000341_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source and exact AI extraction prompt retained. This is an AI-assisted approximation, not a pixel-exact crop; minute contours, scan grain and tones can differ. No separately split versions of contacting figures/props. Native subject bounds cap both axes, with no raster upscaling.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7374,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 1282,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A running gray quadruped has a long narrow snout, raised ears and a tapering tail. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "quadruped",
+      "tail",
+      "ear",
+      "paw"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "cream",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "long-snouted-running-quadruped",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-182v",
+    "png": "png/long-snouted-running-quadruped.png",
+    "webp": "webp/long-snouted-running-quadruped.webp",
+    "width": 1186,
+    "height": 506,
+    "png_bytes": 406508,
+    "webp_bytes": 336894,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/long-snouted-running-quadruped.png",
+        "webp": "webp/128/long-snouted-running-quadruped.webp",
+        "width": 128,
+        "height": 55,
+        "png_bytes": 8533,
+        "webp_bytes": 6730
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/long-snouted-running-quadruped.png",
+        "webp": "webp/256/long-snouted-running-quadruped.webp",
+        "width": 256,
+        "height": 109,
+        "png_bytes": 26902,
+        "webp_bytes": 20528
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/long-snouted-running-quadruped.png",
+        "webp": "webp/512/long-snouted-running-quadruped.webp",
+        "width": 512,
+        "height": 218,
+        "png_bytes": 89728,
+        "webp_bytes": 69632
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/long-snouted-running-quadruped.png",
+        "webp": "webp/768/long-snouted-running-quadruped.webp",
+        "width": 768,
+        "height": 328,
+        "png_bytes": 184281,
+        "webp_bytes": 150294
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with Adoration of the Magi; man combing hair and ape with crossbow in margin",
+      "object_identifier": "W.82, fol. 182v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "0474360dd7f1501691242d3ae2cb256d5a2473b2a14c071a5cb3cd3fa42f694b",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000368_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Standalone source-visible running quadruped. The original pale painted body, collar, claws and curled tail remain opaque; surrounding paper and the unrelated page rule are transparent. Species is uncertain. Native scan pixels supply the visible artwork; a registered AI mask guides ownership only.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-182v-set",
+        "name": "Initial “D” with Adoration of the Magi; man combing hair and ape with crossbow in margin (walters-w82-182v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7635,
+      "height": 8382
+    },
+    "master_longest_dimension_cap": 1186,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A mitred owl-like bird grips the blue staff held by an ape beside it. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals",
+      "fantasy"
+    ],
+    "subjects": [
+      "owl",
+      "bird",
+      "ape",
+      "mitre",
+      "staff"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "cream",
+      "brown",
+      "blue",
+      "gold",
+      "green"
+    ],
+    "composition": "multiple-figures",
+    "name": "mitred-owl-and-ape-with-shared-staff",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-184r",
+    "png": "png/mitred-owl-and-ape-with-shared-staff.png",
+    "webp": "webp/mitred-owl-and-ape-with-shared-staff.webp",
+    "width": 1124,
+    "height": 1269,
+    "png_bytes": 1368206,
+    "webp_bytes": 962872,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/mitred-owl-and-ape-with-shared-staff.png",
+        "webp": "webp/128/mitred-owl-and-ape-with-shared-staff.webp",
+        "width": 113,
+        "height": 128,
+        "png_bytes": 24198,
+        "webp_bytes": 18430
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/mitred-owl-and-ape-with-shared-staff.png",
+        "webp": "webp/256/mitred-owl-and-ape-with-shared-staff.webp",
+        "width": 227,
+        "height": 256,
+        "png_bytes": 79673,
+        "webp_bytes": 56472
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/mitred-owl-and-ape-with-shared-staff.png",
+        "webp": "webp/512/mitred-owl-and-ape-with-shared-staff.webp",
+        "width": 453,
+        "height": 512,
+        "png_bytes": 269201,
+        "webp_bytes": 187706
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/mitred-owl-and-ape-with-shared-staff.png",
+        "webp": "webp/768/mitred-owl-and-ape-with-shared-staff.webp",
+        "width": 680,
+        "height": 768,
+        "png_bytes": 559369,
+        "webp_bytes": 391470
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with Massacre of an Innocent; apes, owl, falconer, and dragon in margin",
+      "object_identifier": "W.82, fol. 184r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "b3b7ec0c3c2ce94837c989050b00470712e4c342a401466da2fa63b38abd5b91",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000371_1200.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original native close-up shows the bird talons contacting the same staff held by the ape. This physically interacting pair remains one illustration; the separate crouching ape is delivered independently.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-184r-set",
+        "name": "Initial “D” with Massacre of an Innocent; apes, owl, falconer, and dragon in margin (walters-w82-184r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7927,
+      "height": 8360
+    },
+    "master_longest_dimension_cap": 1269,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An orange-clad floating figure trails a long green cloak and holds a crossed green and red implement with a round junction. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "figure",
+      "implement",
+      "cloak",
+      "hand",
+      "shaft",
+      "ring"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "orange",
+      "green",
+      "red",
+      "cream",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "orange-clad-floating-figure-with-green-cloak-and-crossed-implement",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-179v",
+    "png": "png/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.png",
+    "webp": "webp/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.webp",
+    "width": 2615,
+    "height": 1003,
+    "png_bytes": 1276112,
+    "webp_bytes": 1011186,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.png",
+        "webp": "webp/128/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.webp",
+        "width": 128,
+        "height": 49,
+        "png_bytes": 6646,
+        "webp_bytes": 5386
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.png",
+        "webp": "webp/256/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.webp",
+        "width": 256,
+        "height": 98,
+        "png_bytes": 20613,
+        "webp_bytes": 15696
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.png",
+        "webp": "webp/512/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.webp",
+        "width": 512,
+        "height": 196,
+        "png_bytes": 66892,
+        "webp_bytes": 50208
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.png",
+        "webp": "webp/768/orange-clad-floating-figure-with-green-cloak-and-crossed-implement.webp",
+        "width": 768,
+        "height": 295,
+        "png_bytes": 136273,
+        "webp_bytes": 102054
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial \"D\" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins",
+      "object_identifier": "W.82, fol. 179v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "345543fc84ebe26a2621fb0fa16fff7c052b06ed6e2f098ccfd3e11deff43aa2",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000362_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible floating figure, flowing cloak, both hands, horizontal round-ended handle and crossing red shaft. Implement identity is uncertain. The original manuscript physically clips the top of the head and the lower shaft end; no missing parts are invented. Exterior paper, lettering, unrelated line filler and adjacent photographed-book pixels are transparent. Native source RGB and proportions are retained; AI supplies an ownership guide only.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-179v-set",
+        "name": "Initial \"D\" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins (walters-w82-179v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7676,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 2615,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small gray long-snouted quadruped running left with four red-tinted feet, a raised curving tail and fine dark outline. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "quadruped",
+      "tail"
+    ],
+    "facing": "left",
+    "colors": [
+      "gray",
+      "red",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "running-long-snouted-quadruped-with-curled-tail",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/running-long-snouted-quadruped-with-curled-tail.png",
+    "webp": "webp/running-long-snouted-quadruped-with-curled-tail.webp",
+    "width": 925,
+    "height": 341,
+    "png_bytes": 341436,
+    "webp_bytes": 273006,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/running-long-snouted-quadruped-with-curled-tail.png",
+        "webp": "webp/128/running-long-snouted-quadruped-with-curled-tail.webp",
+        "width": 128,
+        "height": 47,
+        "png_bytes": 10386,
+        "webp_bytes": 8026
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/running-long-snouted-quadruped-with-curled-tail.png",
+        "webp": "webp/256/running-long-snouted-quadruped-with-curled-tail.webp",
+        "width": 256,
+        "height": 94,
+        "png_bytes": 33500,
+        "webp_bytes": 25676
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/running-long-snouted-quadruped-with-curled-tail.png",
+        "webp": "webp/512/running-long-snouted-quadruped-with-curled-tail.webp",
+        "width": 512,
+        "height": 189,
+        "png_bytes": 114234,
+        "webp_bytes": 92380
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/running-long-snouted-quadruped-with-curled-tail.png",
+        "webp": "webp/768/running-long-snouted-quadruped-with-curled-tail.webp",
+        "width": 768,
+        "height": 283,
+        "png_bytes": 239557,
+        "webp_bytes": 199960
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 925,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Gray long-eared rabbit seated in profile above a manuscript vine, with bent rear legs and a curled tail. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "rabbit"
+    ],
+    "facing": "left",
+    "colors": [
+      "gray",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "seated-long-eared-rabbit-above-top-vine",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-194v",
+    "png": "png/seated-long-eared-rabbit-above-top-vine.png",
+    "webp": "webp/seated-long-eared-rabbit-above-top-vine.webp",
+    "width": 739,
+    "height": 496,
+    "png_bytes": 405697,
+    "webp_bytes": 335106,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/seated-long-eared-rabbit-above-top-vine.png",
+        "webp": "webp/128/seated-long-eared-rabbit-above-top-vine.webp",
+        "width": 128,
+        "height": 86,
+        "png_bytes": 18077,
+        "webp_bytes": 13254
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/seated-long-eared-rabbit-above-top-vine.png",
+        "webp": "webp/256/seated-long-eared-rabbit-above-top-vine.webp",
+        "width": 256,
+        "height": 172,
+        "png_bytes": 58705,
+        "webp_bytes": 44610
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/seated-long-eared-rabbit-above-top-vine.png",
+        "webp": "webp/512/seated-long-eared-rabbit-above-top-vine.webp",
+        "width": 512,
+        "height": 344,
+        "png_bytes": 202861,
+        "webp_bytes": 157796
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin",
+      "object_identifier": "W.82, fol. 194v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-194v-set",
+        "name": "Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin (walters-w82-194v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7728,
+      "height": 8371
+    },
+    "master_longest_dimension_cap": 739,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A standing ape draws a red bow with a long left-pointing arrow. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "ape",
+      "bow",
+      "arrow",
+      "hand",
+      "foot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "cream",
+      "red",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "standing-ape-archer-with-red-bow-and-long-arrow",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-182v",
+    "png": "png/standing-ape-archer-with-red-bow-and-long-arrow.png",
+    "webp": "webp/standing-ape-archer-with-red-bow-and-long-arrow.webp",
+    "width": 1205,
+    "height": 1507,
+    "png_bytes": 991068,
+    "webp_bytes": 777866,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/standing-ape-archer-with-red-bow-and-long-arrow.png",
+        "webp": "webp/128/standing-ape-archer-with-red-bow-and-long-arrow.webp",
+        "width": 102,
+        "height": 128,
+        "png_bytes": 14909,
+        "webp_bytes": 10682
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/standing-ape-archer-with-red-bow-and-long-arrow.png",
+        "webp": "webp/256/standing-ape-archer-with-red-bow-and-long-arrow.webp",
+        "width": 205,
+        "height": 256,
+        "png_bytes": 45287,
+        "webp_bytes": 32284
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/standing-ape-archer-with-red-bow-and-long-arrow.png",
+        "webp": "webp/512/standing-ape-archer-with-red-bow-and-long-arrow.webp",
+        "width": 409,
+        "height": 512,
+        "png_bytes": 145004,
+        "webp_bytes": 108196
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/standing-ape-archer-with-red-bow-and-long-arrow.png",
+        "webp": "webp/768/standing-ape-archer-with-red-bow-and-long-arrow.webp",
+        "width": 614,
+        "height": 768,
+        "png_bytes": 292559,
+        "webp_bytes": 227058
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with Adoration of the Magi; man combing hair and ape with crossbow in margin",
+      "object_identifier": "W.82, fol. 182v",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "0474360dd7f1501691242d3ae2cb256d5a2473b2a14c071a5cb3cd3fa42f694b",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000368_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original native source RGB retained without resizing or redraw; registered retained AI alpha supplies approximate ownership only. Complete original visible subject, pale/gray/colored body surfaces and fine props retained; source page/frame exterior and genuine openings are transparent. Native source/white/dark review recorded. Original source occlusions or page-edge truncations are retained; no hidden reconstruction.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-182v-set",
+        "name": "Initial “D” with Adoration of the Magi; man combing hair and ape with crossbow in margin (walters-w82-182v)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7635,
+      "height": 8382
+    },
+    "master_longest_dimension_cap": 1507,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Standing robed man holding a long-tailed bird, together with the contacting gray/blue foliate foot support and its two orange leaves. Part of the Walters W.82 Marginalia set.",
+    "categories": [
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "man",
+      "bird",
+      "robe",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "orange",
+      "gold",
+      "gray",
+      "black"
+    ],
+    "composition": "multiple-figures",
+    "name": "standing-robed-man-holding-long-tailed-bird-on-foliated-support",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w82-184r",
+    "png": "png/standing-robed-man-holding-long-tailed-bird-on-foliated-support.png",
+    "webp": "webp/standing-robed-man-holding-long-tailed-bird-on-foliated-support.webp",
+    "width": 856,
+    "height": 3157,
+    "png_bytes": 3444833,
+    "webp_bytes": 2847388,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/standing-robed-man-holding-long-tailed-bird-on-foliated-support.png",
+        "webp": "webp/128/standing-robed-man-holding-long-tailed-bird-on-foliated-support.webp",
+        "width": 35,
+        "height": 128,
+        "png_bytes": 10807,
+        "webp_bytes": 8852
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/standing-robed-man-holding-long-tailed-bird-on-foliated-support.png",
+        "webp": "webp/256/standing-robed-man-holding-long-tailed-bird-on-foliated-support.webp",
+        "width": 69,
+        "height": 256,
+        "png_bytes": 34787,
+        "webp_bytes": 29720
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/standing-robed-man-holding-long-tailed-bird-on-foliated-support.png",
+        "webp": "webp/512/standing-robed-man-holding-long-tailed-bird-on-foliated-support.webp",
+        "width": 139,
+        "height": 512,
+        "png_bytes": 118547,
+        "webp_bytes": 88688
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/standing-robed-man-holding-long-tailed-bird-on-foliated-support.png",
+        "webp": "webp/768/standing-robed-man-holding-long-tailed-bird-on-foliated-support.webp",
+        "width": 208,
+        "height": 768,
+        "png_bytes": 247778,
+        "webp_bytes": 189588
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Initial “D” with Massacre of an Innocent; apes, owl, falconer, and dragon in margin",
+      "object_identifier": "W.82, fol. 184r",
+      "date": "Ca. 1315-1325 CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "b3b7ec0c3c2ce94837c989050b00470712e4c342a401466da2fa63b38abd5b91",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000371_1200.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The man, held bird and vine beneath his feet form one contacting group. The complete blue support and orange terminal flower are included; the separate gilt page-margin bar is excluded at their original junction. The manuscript photograph physically truncates the far right robe edge; no unseen anatomy or margin completion is invented.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w82-marginalia",
+        "name": "Walters W.82 Marginalia"
+      },
+      {
+        "id": "walters-w82-184r-set",
+        "name": "Initial “D” with Massacre of an Innocent; apes, owl, falconer, and dragon in margin (walters-w82-184r)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 7927,
+      "height": 8360
+    },
+    "master_longest_dimension_cap": 3157,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 12 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-01-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-01-from-reverse-wheel.png",
+    "webp": "webp/wind-head-01-from-reverse-wheel.webp",
+    "width": 725,
+    "height": 855,
+    "png_bytes": 679451,
+    "webp_bytes": 537986,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-01-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-01-from-reverse-wheel.webp",
+        "width": 109,
+        "height": 128,
+        "png_bytes": 22827,
+        "webp_bytes": 17256
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-01-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-01-from-reverse-wheel.webp",
+        "width": 217,
+        "height": 256,
+        "png_bytes": 75723,
+        "webp_bytes": 58642
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-01-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-01-from-reverse-wheel.webp",
+        "width": 434,
+        "height": 512,
+        "png_bytes": 259956,
+        "webp_bytes": 200656
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-01-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-01-from-reverse-wheel.webp",
+        "width": 651,
+        "height": 768,
+        "png_bytes": 556837,
+        "webp_bytes": 435282
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 855,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 1 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-02-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-02-from-reverse-wheel.png",
+    "webp": "webp/wind-head-02-from-reverse-wheel.webp",
+    "width": 613,
+    "height": 799,
+    "png_bytes": 685628,
+    "webp_bytes": 533852,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-02-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-02-from-reverse-wheel.webp",
+        "width": 98,
+        "height": 128,
+        "png_bytes": 26056,
+        "webp_bytes": 19480
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-02-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-02-from-reverse-wheel.webp",
+        "width": 196,
+        "height": 256,
+        "png_bytes": 87137,
+        "webp_bytes": 67708
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-02-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-02-from-reverse-wheel.webp",
+        "width": 393,
+        "height": 512,
+        "png_bytes": 302382,
+        "webp_bytes": 234610
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-02-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-02-from-reverse-wheel.webp",
+        "width": 589,
+        "height": 768,
+        "png_bytes": 634322,
+        "webp_bytes": 495788
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 799,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 2 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-03-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-03-from-reverse-wheel.png",
+    "webp": "webp/wind-head-03-from-reverse-wheel.webp",
+    "width": 679,
+    "height": 866,
+    "png_bytes": 724311,
+    "webp_bytes": 556394,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-03-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-03-from-reverse-wheel.webp",
+        "width": 100,
+        "height": 128,
+        "png_bytes": 23539,
+        "webp_bytes": 17478
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-03-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-03-from-reverse-wheel.webp",
+        "width": 201,
+        "height": 256,
+        "png_bytes": 79607,
+        "webp_bytes": 61708
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-03-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-03-from-reverse-wheel.webp",
+        "width": 401,
+        "height": 512,
+        "png_bytes": 275800,
+        "webp_bytes": 214628
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-03-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-03-from-reverse-wheel.webp",
+        "width": 602,
+        "height": 768,
+        "png_bytes": 579525,
+        "webp_bytes": 448928
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 866,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 3 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "wind-head-04-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-04-from-reverse-wheel.png",
+    "webp": "webp/wind-head-04-from-reverse-wheel.webp",
+    "width": 688,
+    "height": 936,
+    "png_bytes": 909351,
+    "webp_bytes": 705774,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-04-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-04-from-reverse-wheel.webp",
+        "width": 94,
+        "height": 128,
+        "png_bytes": 26625,
+        "webp_bytes": 21646
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-04-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-04-from-reverse-wheel.webp",
+        "width": 188,
+        "height": 256,
+        "png_bytes": 88236,
+        "webp_bytes": 63490
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-04-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-04-from-reverse-wheel.webp",
+        "width": 376,
+        "height": 512,
+        "png_bytes": 297779,
+        "webp_bytes": 237562
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-04-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-04-from-reverse-wheel.webp",
+        "width": 565,
+        "height": 768,
+        "png_bytes": 625783,
+        "webp_bytes": 492194
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Pale source head and neck surfaces are opaque; surrounding page, roundel letters and diagram lines are excluded. Only the source-visible mouth-air portion before its crossing with the wheel is retained. Exact quarter-turn orientation preserves native pixels; no vector approximation.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 936,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 4 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-05-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-05-from-reverse-wheel.png",
+    "webp": "webp/wind-head-05-from-reverse-wheel.webp",
+    "width": 629,
+    "height": 831,
+    "png_bytes": 650658,
+    "webp_bytes": 540904,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-05-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-05-from-reverse-wheel.webp",
+        "width": 97,
+        "height": 128,
+        "png_bytes": 23007,
+        "webp_bytes": 17168
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-05-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-05-from-reverse-wheel.webp",
+        "width": 194,
+        "height": 256,
+        "png_bytes": 77670,
+        "webp_bytes": 57212
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-05-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-05-from-reverse-wheel.webp",
+        "width": 388,
+        "height": 512,
+        "png_bytes": 268000,
+        "webp_bytes": 207232
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-05-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-05-from-reverse-wheel.webp",
+        "width": 581,
+        "height": 768,
+        "png_bytes": 564054,
+        "webp_bytes": 442606
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 831,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 5 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-06-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-06-from-reverse-wheel.png",
+    "webp": "webp/wind-head-06-from-reverse-wheel.webp",
+    "width": 656,
+    "height": 862,
+    "png_bytes": 663880,
+    "webp_bytes": 517690,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-06-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-06-from-reverse-wheel.webp",
+        "width": 97,
+        "height": 128,
+        "png_bytes": 21867,
+        "webp_bytes": 16374
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-06-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-06-from-reverse-wheel.webp",
+        "width": 195,
+        "height": 256,
+        "png_bytes": 74843,
+        "webp_bytes": 57914
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-06-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-06-from-reverse-wheel.webp",
+        "width": 390,
+        "height": 512,
+        "png_bytes": 260488,
+        "webp_bytes": 205178
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-06-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-06-from-reverse-wheel.webp",
+        "width": 584,
+        "height": 768,
+        "png_bytes": 538262,
+        "webp_bytes": 420742
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 862,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 6 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "wind-head-07-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-07-from-reverse-wheel.png",
+    "webp": "webp/wind-head-07-from-reverse-wheel.webp",
+    "width": 676,
+    "height": 835,
+    "png_bytes": 721856,
+    "webp_bytes": 568862,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-07-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-07-from-reverse-wheel.webp",
+        "width": 104,
+        "height": 128,
+        "png_bytes": 25578,
+        "webp_bytes": 19220
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-07-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-07-from-reverse-wheel.webp",
+        "width": 207,
+        "height": 256,
+        "png_bytes": 87384,
+        "webp_bytes": 64938
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-07-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-07-from-reverse-wheel.webp",
+        "width": 415,
+        "height": 512,
+        "png_bytes": 299850,
+        "webp_bytes": 232090
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-07-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-07-from-reverse-wheel.webp",
+        "width": 622,
+        "height": 768,
+        "png_bytes": 619734,
+        "webp_bytes": 489958
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Pale source head and neck surfaces are opaque; surrounding page, roundel letters and diagram lines are excluded. Only the source-visible mouth-air portion before its crossing with the wheel is retained. Exact quarter-turn orientation preserves native pixels; no vector approximation.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 835,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 7 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-08-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-08-from-reverse-wheel.png",
+    "webp": "webp/wind-head-08-from-reverse-wheel.webp",
+    "width": 608,
+    "height": 842,
+    "png_bytes": 644044,
+    "webp_bytes": 512004,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-08-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-08-from-reverse-wheel.webp",
+        "width": 92,
+        "height": 128,
+        "png_bytes": 22018,
+        "webp_bytes": 16942
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-08-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-08-from-reverse-wheel.webp",
+        "width": 185,
+        "height": 256,
+        "png_bytes": 75723,
+        "webp_bytes": 59520
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-08-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-08-from-reverse-wheel.webp",
+        "width": 370,
+        "height": 512,
+        "png_bytes": 263721,
+        "webp_bytes": 208048
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/wind-head-08-from-reverse-wheel.png",
+        "webp": "webp/768/wind-head-08-from-reverse-wheel.webp",
+        "width": 555,
+        "height": 768,
+        "png_bytes": 548505,
+        "webp_bytes": 432576
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 842,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 8 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-09-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-09-from-reverse-wheel.png",
+    "webp": "webp/wind-head-09-from-reverse-wheel.webp",
+    "width": 622,
+    "height": 757,
+    "png_bytes": 527955,
+    "webp_bytes": 409744,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-09-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-09-from-reverse-wheel.webp",
+        "width": 105,
+        "height": 128,
+        "png_bytes": 21739,
+        "webp_bytes": 17014
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-09-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-09-from-reverse-wheel.webp",
+        "width": 210,
+        "height": 256,
+        "png_bytes": 75398,
+        "webp_bytes": 59348
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-09-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-09-from-reverse-wheel.webp",
+        "width": 421,
+        "height": 512,
+        "png_bytes": 262788,
+        "webp_bytes": 208148
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 757,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 9 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "single-figure",
+    "name": "wind-head-10-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-10-from-reverse-wheel.png",
+    "webp": "webp/wind-head-10-from-reverse-wheel.webp",
+    "width": 596,
+    "height": 660,
+    "png_bytes": 532003,
+    "webp_bytes": 419000,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-10-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-10-from-reverse-wheel.webp",
+        "width": 116,
+        "height": 128,
+        "png_bytes": 28337,
+        "webp_bytes": 21644
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-10-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-10-from-reverse-wheel.webp",
+        "width": 231,
+        "height": 256,
+        "png_bytes": 97774,
+        "webp_bytes": 76906
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-10-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-10-from-reverse-wheel.webp",
+        "width": 462,
+        "height": 512,
+        "png_bytes": 337014,
+        "webp_bytes": 262874
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original technical wind rays, surrounding labels and circular diagram removed. Only source-visible anatomy is retained; diagram-bound neck truncations are not completed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 660,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 10 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "wind-head-11-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-11-from-reverse-wheel.png",
+    "webp": "webp/wind-head-11-from-reverse-wheel.webp",
+    "width": 622,
+    "height": 756,
+    "png_bytes": 602935,
+    "webp_bytes": 467124,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-11-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-11-from-reverse-wheel.webp",
+        "width": 105,
+        "height": 128,
+        "png_bytes": 26622,
+        "webp_bytes": 19754
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-11-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-11-from-reverse-wheel.webp",
+        "width": 211,
+        "height": 256,
+        "png_bytes": 87502,
+        "webp_bytes": 67856
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-11-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-11-from-reverse-wheel.webp",
+        "width": 421,
+        "height": 512,
+        "png_bytes": 294982,
+        "webp_bytes": 225208
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original pale head/neck surfaces stay opaque. Surrounding page, roundel letters and black/red diagram rules are excluded. Only source-visible green mouth-air before the wheel intersection is retained; no hidden neck or anatomy reconstructed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 756,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The distinct human wind head at clock position 11 on the reverse wind-wheel, with original green mouth markings and warm cheek. Part of the Walters W.73 Wind Heads set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "human",
+      "head",
+      "wind",
+      "face",
+      "hair"
+    ],
+    "facing": "right",
+    "colors": [
+      "black",
+      "brown",
+      "cream",
+      "green",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "wind-head-12-from-reverse-wheel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "walters-w73-1v",
+    "png": "png/wind-head-12-from-reverse-wheel.png",
+    "webp": "webp/wind-head-12-from-reverse-wheel.webp",
+    "width": 681,
+    "height": 733,
+    "png_bytes": 574442,
+    "webp_bytes": 476334,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/wind-head-12-from-reverse-wheel.png",
+        "webp": "webp/128/wind-head-12-from-reverse-wheel.webp",
+        "width": 119,
+        "height": 128,
+        "png_bytes": 26900,
+        "webp_bytes": 19948
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/wind-head-12-from-reverse-wheel.png",
+        "webp": "webp/256/wind-head-12-from-reverse-wheel.webp",
+        "width": 238,
+        "height": 256,
+        "png_bytes": 87208,
+        "webp_bytes": 67572
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/wind-head-12-from-reverse-wheel.png",
+        "webp": "webp/512/wind-head-12-from-reverse-wheel.webp",
+        "width": 476,
+        "height": 512,
+        "png_bytes": 294809,
+        "webp_bytes": 242068
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Diagram (rota) of the winds",
+      "object_identifier": "W.73, fol. 1v",
+      "date": "Late 12th century CE",
+      "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html",
+      "image_rights": "CC0 (Digital Walters manuscript images)",
+      "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+      "source_sha256": "64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6",
+      "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Pale source head and neck surfaces are opaque; surrounding page, roundel letters and diagram lines are excluded. Only the source-visible mouth-air portion before its crossing with the wheel is retained. Exact quarter-turn orientation preserves native pixels; no vector approximation.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "walters-w73-1v-set",
+        "name": "Walters W.73 Wind Heads"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8915,
+      "height": 12279
+    },
+    "master_longest_dimension_cap": 733,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
